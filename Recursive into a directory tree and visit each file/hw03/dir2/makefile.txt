@@ -1,0 +1,9 @@
+mainprog: test.o
+	g++ test.o -o mainprog
+
+test.o: test.c
+	g++ -c -O2 test.c
+
+clean:
+	rm -f *.o
+	rm -f mainprog

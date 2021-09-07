@@ -1,0 +1,9 @@
+mainprog: hello.o
+	g++ hello.o -o mainprog
+
+hello.o: hello.c
+	g++ -c -O2 hello.c
+
+clean:
+	rm -f *.o
+	rm -f mainprog
