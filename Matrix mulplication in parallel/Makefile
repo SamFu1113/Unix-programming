@@ -1,4 +1,4 @@
-TARGETS = hw6
+TARGETS = main
 
 all: $(TARGETS)
 
