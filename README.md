@@ -1,5 +1,5 @@
 # Unix programming
- The course material is from unix programming course.
+ The material is from unix programming course.
 
 ## Why learning UNIX?
  + Academic research
@@ -13,7 +13,7 @@
 
 
 ## Topics Covered
-```
+
 + UNIX architecture
 + File System Operations
 + Terminal I/O
@@ -21,4 +21,4 @@
 + process/thread, signals, semaphores, IPC, etc.
 + Network Computing
 + Socket, RPC
-```
+
