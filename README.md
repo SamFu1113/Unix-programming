@@ -14,11 +14,11 @@
 
 ## Topics Covered
 ```
-UNIX architecture
-File System Operations
-Terminal I/O
-Concurrent Programming
-process/thread, signals, semaphores, IPC, etc.
-Network Computing
-socket, RPC
++ UNIX architecture
++ File System Operations
++ Terminal I/O
++ Concurrent Programming
++ process/thread, signals, semaphores, IPC, etc.
++ Network Computing
++ Socket, RPC
 ```
