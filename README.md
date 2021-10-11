@@ -3,11 +3,11 @@
 
 ## Why learning UNIX?
  + Academic research
-    + lots of open-source free software
-    + innovative software appears on UNIX first
-    + network computing research (cluster/grid)
-    + embedded system and SoC (system-on-chip)
-    + most of embedded software are Linux-based
+    + Lots of open-source free software
+    + Innovative software appears on UNIX first
+    + Network computing research (cluster/grid)
+    + Embedded system and SoC (system-on-chip)
+    + Most of embedded software are Linux-based
     + MOST IMPORTANT: make you an expert on playing computer!
 
 
