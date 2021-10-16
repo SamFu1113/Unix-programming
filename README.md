@@ -25,6 +25,10 @@
 ## Set up
 
 > Setup your Linux
+>> Use the embedded system LAB (dual-boot w/ Fedora)
+>> Use your own computer
+
+
 + File System Operations
 + Terminal I/O
 + Concurrent Programming
