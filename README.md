@@ -27,7 +27,8 @@
 > Setup your Linux
 >> Use the embedded system LAB (dual-boot w/ Fedora)
 >> Use your own computer
-
+>>> Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
+>>> You can still have your M$-Windows with Linux
 
 + File System Operations
 + Terminal I/O
