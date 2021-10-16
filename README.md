@@ -22,3 +22,13 @@
 + Network Computing
 + Socket, RPC
 
+## Set up
+
+> Setup your Linux
++ File System Operations
++ Terminal I/O
++ Concurrent Programming
++ process/thread, signals, semaphores, IPC, etc.
++ Network Computing
++ Socket, RPC
+
