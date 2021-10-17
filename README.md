@@ -33,5 +33,7 @@
 - Test the following software works
 	- Shells: bash, tcsh, etc
 	- Programming tools: gcc, gdb, make
+	- Your favorite X-window: KDE/Gnome
+
 
 
