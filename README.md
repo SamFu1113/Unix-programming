@@ -31,9 +31,5 @@
 		- You can still have your M$-Windows with Linux
 
 - Test the following software works
-+ Terminal I/O
-+ Concurrent Programming
-+ process/thread, signals, semaphores, IPC, etc.
-+ Network Computing
-+ Socket, RPC
+	- Shells: bash, tcsh, etc
 
