@@ -30,7 +30,7 @@
 		- Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
 		- You can still have your M$-Windows with Linux
 
-+ File System Operations
+- Test the following software works
 + Terminal I/O
 + Concurrent Programming
 + process/thread, signals, semaphores, IPC, etc.
