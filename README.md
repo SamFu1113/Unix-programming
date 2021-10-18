@@ -41,6 +41,7 @@
 
 - man
 	- “man command” to look for how to use certain command
+		- Example: “man gcc”
 
 
 
