@@ -37,6 +37,11 @@
 	- Your favorite GUI debugger (ddd, kdbg, etc.)
 	- Your favorite text editor (kwrite, emacs, vi, etc.)
 
+## First UNIX instruction you should learn
+
+- man
 
 
 
+
+- info
