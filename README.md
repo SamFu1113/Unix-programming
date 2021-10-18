@@ -40,6 +40,7 @@
 ## First UNIX instruction you should learn
 
 - man
+	- “man command” to look for how to use certain command
 
 
 
