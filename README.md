@@ -35,6 +35,8 @@
 	- Programming tools: gcc, gdb, make
 	- Your favorite X-window: KDE/Gnome
 	- Your favorite GUI debugger (ddd, kdbg, etc.)
+	- Your favorite text editor (kwrite, emacs, vi, etc.)
+
 
 
 
