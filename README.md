@@ -1,5 +1,7 @@
 # Unix programming
  The material is from unix programming course.
+ 
+***
 
 ## Why learning UNIX?
  + Academic research
@@ -10,7 +12,7 @@
     + Most of embedded software are Linux-based
     + MOST IMPORTANT: make you an expert on playing computer!
 
-
+***
 
 ## Topics Covered
 
@@ -21,6 +23,8 @@
 + process/thread, signals, semaphores, IPC, etc.
 + Network Computing
 + Socket, RPC
+
+***
 
 ## Set up
 
@@ -36,6 +40,8 @@
 	- Your favorite X-window: KDE/Gnome
 	- Your favorite GUI debugger (ddd, kdbg, etc.)
 	- Your favorite text editor (kwrite, emacs, vi, etc.)
+
+***
 
 ## First UNIX instruction you should learn
 
