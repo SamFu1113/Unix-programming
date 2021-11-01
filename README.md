@@ -47,3 +47,4 @@
 
 
 - info
+	- Example: “info gcc” for detailed manual of gcc compiler
