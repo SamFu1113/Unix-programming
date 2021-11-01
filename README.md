@@ -42,9 +42,5 @@
 - man
 	- “man command” to look for how to use certain command
 		- Example: “man gcc”
-
-
-
-
 - info
 	- Example: “info gcc” for detailed manual of gcc compiler
