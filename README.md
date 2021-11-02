@@ -3,10 +3,10 @@
 	The material is from unix programming course.
 
 ## Experiment Environment
-
+	
 ## Why learning UNIX?
 
-	 + Academic research
+	+ Academic research
 		+ Lots of open-source free software
 		+ Innovative software appears on UNIX first
 		+ Network computing research (cluster/grid)
