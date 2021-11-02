@@ -3,7 +3,9 @@
 	The material is from unix programming course.
 
 ## Experiment Environment
-	
+
+	+ Fedora/Ubuntu/Red Hat Enterprise/CentOS
+
 ## Why learning UNIX?
 
 	+ Academic research
