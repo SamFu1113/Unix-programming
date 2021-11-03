@@ -5,6 +5,9 @@
 ## Experiment Environment
 
 	+ Fedora/Ubuntu/Red Hat Enterprise/CentOS
+		+ The CSIE server: Ubuntu
+		+ my laptop: Ubuntu 16.04
+
 
 ## Why learning UNIX?
 
