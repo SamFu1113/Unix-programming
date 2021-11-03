@@ -7,6 +7,8 @@
 	+ Fedora/Ubuntu/Red Hat Enterprise/CentOS
 		+ The CSIE server: Ubuntu
 		+ my laptop: Ubuntu 16.04
+	+ With GNU tool-chain
+
 
 
 ## Why learning UNIX?
