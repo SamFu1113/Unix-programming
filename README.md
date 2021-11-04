@@ -1,6 +1,11 @@
 # Unix programming
 
-The material is from unix programming course.
+## Prerequisites
+
+Linux os:
+- Ubuntu 16.04, 20.04.
+- Fedora
+- Debian
 
 ## Experiment Environment
 
@@ -57,3 +62,5 @@ The material is from unix programming course.
 		- Example: “man gcc”
 - info
 	- Example: “info gcc” for detailed manual of gcc compiler
+	
+
