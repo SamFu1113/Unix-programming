@@ -2,10 +2,13 @@
 
 ## Prerequisites
 
-Linux os:
+### Linux os
+```sh
+Ex:
 - Ubuntu 16.04, 20.04.
 - Fedora
 - Debian
+```
 
 ## Experiment Environment
 
