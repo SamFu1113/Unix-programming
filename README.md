@@ -6,7 +6,7 @@ The material is from unix programming course.
 
 - Fedora/Ubuntu/Red Hat Enterprise/CentOS
 	- The CSIE server: Ubuntu
-	- my laptop: Ubuntu 16.04
+	- My laptop: Ubuntu 16.04
 	
 - With GNU tool-chain
 	- gcc (the C compiler)
