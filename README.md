@@ -9,8 +9,8 @@ The material is from unix programming course.
 	- my laptop: Ubuntu 16.04
 	
 - With GNU tool-chain
-
-
+	- gcc (the C compiler)
+	- gdb (the GNU debugger)
 
 
 ## Why learning UNIX?
