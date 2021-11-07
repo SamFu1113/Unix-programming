@@ -65,5 +65,10 @@
 		- Example: “man gcc”
 - info
 	- Example: “info gcc” for detailed manual of gcc compiler
+
+## Projects introduction
+
+- Write the first program
+- Unix architecture and demo
 	
 
