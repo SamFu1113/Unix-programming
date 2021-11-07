@@ -58,7 +58,7 @@
 	- Your favorite GUI debugger (ddd, kdbg, etc.)
 	- Your favorite text editor (kwrite, emacs, vi, etc.)
 
-## First UNIX instruction you should learn
+## First UNIX instruction I should learn
 
 - man
 	- “man command” to look for how to use certain command
