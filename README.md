@@ -68,7 +68,7 @@
 
 ## Projects introduction
 
-- Write the first program
-- Unix architecture and demo
+- Write the first program.
+- Define my own fstream class.
 	
 
