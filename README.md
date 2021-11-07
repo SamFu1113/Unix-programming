@@ -71,5 +71,6 @@
 1. Write the first program.
 2. Define my own fstream class.
 3. Recursive into a directory tree and visit each file.
+4. On-line messenger.
 	
 
