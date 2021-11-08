@@ -70,6 +70,9 @@
 
 1. Write the first program.
 	- Write the Makefile to build the executable program in sub-folder “HW_01”
+		- Three functions spread across multiple files: main, calculate, mult
+
+		
 
 2. Define my own fstream class.
 3. Recursive into a directory tree and visit each file.
