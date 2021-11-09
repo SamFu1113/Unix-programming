@@ -75,6 +75,9 @@
 		- The correct execution result is “X=610”.
 		
 	- The executable program you build should:
+		- Correctly execute, and
+		- Be able to run in a debugger
+
 
 
 
