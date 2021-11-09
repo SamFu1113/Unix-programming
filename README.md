@@ -80,6 +80,8 @@
 	
 2. Define my own fstream class.
 	- Build a standard C++ class using system calls.
+	- Write a class named “myfstream”.
+
 
 3. Recursive into a directory tree and visit each file.
 4. On-line messenger.
