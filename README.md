@@ -77,13 +77,10 @@
 	- The executable program you build should:
 		- Correctly execute, and
 		- Be able to run in a debugger
-
-
-
-
-		
-
+	
 2. Define my own fstream class.
+	- Build a standard C++ class using system calls.
+
 3. Recursive into a directory tree and visit each file.
 4. On-line messenger.
 	
