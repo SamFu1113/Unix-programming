@@ -81,6 +81,9 @@
 2. Define my own fstream class.
 	- Build a standard C++ class using system calls.
 	- Write a class named “myfstream”.
+		- Similar functionality to the standard C++ class fstream.
+		- Contains at least these methods:	
+
 
 
 3. Recursive into a directory tree and visit each file.
