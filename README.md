@@ -83,6 +83,9 @@
 	- Write a class named “myfstream”.
 		- Similar functionality to the standard C++ class fstream.
 		- Contains at least these methods:	
+			- Open
+			- Close
+
 
 
 
