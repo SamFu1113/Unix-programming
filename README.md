@@ -85,6 +85,8 @@
 		- Contains at least these methods:	
 			- Open
 			- Close
+			- Read
+			- Write
 
 
 
