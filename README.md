@@ -87,7 +87,8 @@
 			- Close
 			- Read
 			- Write
-
+			- Operator <<
+			- Operator >>
 
 
 
