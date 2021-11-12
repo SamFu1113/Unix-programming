@@ -89,7 +89,8 @@
 			- Write
 			- Operator <<
 			- Operator >>
-
+	- Requirements to your program:
+	
 
 
 3. Recursive into a directory tree and visit each file.
