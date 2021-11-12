@@ -94,7 +94,7 @@
 			- Separate “.h” file
 			- Build the library file “libmyfstream.a”
 
-	
+		- Test your program by other users.
 
 
 3. Recursive into a directory tree and visit each file.
