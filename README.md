@@ -90,6 +90,8 @@
 			- Operator <<
 			- Operator >>
 	- Requirements to your program(Learn how C/C++ standard libraries are built):
+		- Build the library and deliver to other users.
+
 	
 
 
