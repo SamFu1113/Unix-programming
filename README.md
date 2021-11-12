@@ -95,6 +95,8 @@
 			- Build the library file “libmyfstream.a”
 
 		- Test your program by other users.
+			- Deliver only .h and .a files
+
 
 
 3. Recursive into a directory tree and visit each file.
