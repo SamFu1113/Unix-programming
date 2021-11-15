@@ -100,7 +100,8 @@
 			- Only UNIX system calls are allowed.
 
 3. Recursive into a directory tree and visit each file.
-	- Program to
+	- Program to:
+		- Recursion into a directory tree and visit each file.
 
 4. On-line messenger.
 	
