@@ -91,11 +91,13 @@
 			- Operator >>
 	- Requirements to your program(Learn how C/C++ standard libraries are built):
 		- Build the library and deliver to other users.
-			- Separate “.h” file
-			- Build the library file “libmyfstream.a”
+			- Separate “.h” file.
+			- Build the library file “libmyfstream.a”.
 
 		- Test your program by other users.
-			- Deliver only .h and .a files
+			- Deliver only .h and .a files.
+			- C++ source code on methods implementation should not be delivered to the test users.
+
 
 
 
