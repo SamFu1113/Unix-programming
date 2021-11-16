@@ -102,6 +102,8 @@
 3. Recursive into a directory tree and visit each file.
 	- Program to:
 		- Recursion into a directory tree and visit each file.
+		- Print out file name and the number of lines in each file.
+
 
 4. On-line messenger.
 	
