@@ -104,7 +104,7 @@
 		- Recursion into a directory tree and visit each file.
 		- Print out file name and the number of lines in each file.  
 			- Assume each file is a text file.
-				![image info](photos/directory_tree.PNG)
+	![image info](photos/directory_tree.PNG)
 				
 
 
