@@ -106,8 +106,8 @@
 			- Assume each file is a text file.<br /><br /><br />
 	![image info](photos/directory_tree.PNG)
 				
-
-
 4. On-line messenger.
+	- Suppose you want to write such a program:  
+
 	
 
