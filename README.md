@@ -111,7 +111,7 @@
 		- List all your friends on-line.  
 	![image info](photos/friends_online.PNG)
 		- Send a message to one of your friends.
-
+	- What you need to know?
 
 
 	
