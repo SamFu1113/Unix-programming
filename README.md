@@ -111,9 +111,9 @@
 		- List all your friends on-line.  
 	![image info](photos/friends_online.PNG)
 		- Send a message to one of your friends.
-	- What you need to know?
+	- What you need to know?									![image info](photos/arrow.PNG)
 	- A simple messenger to send a string to other’s terminal.
-	![image info](photos/Helen.PNG)		![image info](photos/arrow.PNG)
+	![image info](photos/Helen.PNG)		
 
 
 
