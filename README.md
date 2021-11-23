@@ -116,7 +116,7 @@
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
 	
 6. Matrix mulplication in parallel.
-
+	![image info](photos/summation of matrix mulplication.PNG)
 
 
 
