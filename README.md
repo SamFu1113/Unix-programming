@@ -114,6 +114,10 @@
 	- What you need to know?
 	- A simple messenger to send a string to other’s terminal.  
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
+	
+6. Matrix mulplication in parallel.
+
+
 
 
 
