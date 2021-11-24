@@ -116,8 +116,7 @@
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
 	
 6. Matrix mulplication in parallel.
-	![image info](photos/mulplication.PNG)\
-		<br />
+	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
 		<br />
 		- You may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
