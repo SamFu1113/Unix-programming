@@ -115,7 +115,7 @@
 	- A simple messenger to send a string to other’s terminal.  
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
 	
-5. Database management program with auto recovery.
+5. Database management program with auto recovery.<br /><br />
 	![image info](photos/front-end_process.PNG) 
 
 6. Matrix mulplication in parallel.
