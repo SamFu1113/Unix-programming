@@ -1,5 +1,6 @@
+<!---
 <link href="style.css" rel="stylesheet"></link>
-
+-->
 # Unix programming
 
 ## Prerequisites
@@ -118,9 +119,9 @@
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
 	
 5. Database management program with auto recovery.<br /><br />
-	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) <div style="width:80px; height:100px">
-																				![backend](photos/back-end-process.PNG)
-																				</div>
+	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) [//]: # (<div style="width:80px; height:100px">)
+																				![image info](photos/back-end-process.PNG)
+																				[//]: # (</div>>)
 
 6. Matrix mulplication in parallel.
 	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
