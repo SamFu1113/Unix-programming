@@ -118,7 +118,7 @@
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
 	
 5. Database management program with auto recovery.<br /><br />
-	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) ![image info](photos/back-end-process.PNG =100x)
+	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) ![backend](photos/back-end-process.PNG)
 
 6. Matrix mulplication in parallel.
 	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
