@@ -125,6 +125,7 @@
 		- Store data in a linked list.
 	- Auto-Recovery:
 		- Automatic save data to disk:
+			- CTRL-C
 
 
 
