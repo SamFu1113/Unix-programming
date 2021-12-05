@@ -124,6 +124,8 @@
 		- Always alive even the front-end is closed.
 		- Store data in a linked list.
 	- Auto-Recovery:
+		- Automatic save data to disk:
+
 
 
 	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) [](<div style="width:80px; height:100px">)
