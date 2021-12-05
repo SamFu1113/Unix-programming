@@ -121,6 +121,8 @@
 5. Database management program with auto recovery.<br /><br />
 	- A database management program with auto recovery.
 	- Back-end Process:
+		- Always alive even the front-end is closed.
+
 
 	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) [](<div style="width:80px; height:100px">)
 																				![image info](photos/back-end-process.PNG)
