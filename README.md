@@ -137,11 +137,11 @@
 6. Matrix mulplication in parallel.
 	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
 		
-		- Goal:
-			- Guide you to write parallel program computing the dot-product.
+	- Goal:
+		- Guide you to write parallel program computing the dot-product.
 
 			
-		- You may modify from pthread_acc.
+	- You may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
 
 
