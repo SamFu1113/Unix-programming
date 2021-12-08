@@ -138,6 +138,8 @@
 6. Matrix mulplication in parallel.
 	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
 		<br />
+		- Goal:
+			
 		- You may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
 
