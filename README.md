@@ -140,7 +140,7 @@
 	- Goal:
 		- Guide you to write parallel program computing the dot-product.
 		- With shared memory mechanism of UNIX.
-
+	- Write a dot-product with pthread.
 	- You may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
 
