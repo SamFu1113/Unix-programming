@@ -52,7 +52,7 @@
 	- Use the embedded system LAB (dual-boot w/ Fedora)
 	- Use my own computer
 		- Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
-		- You can still have your M$-Windows with Linux
+		- I can still have your M$-Windows with Linux
 
 - Test the following software works
 	- Shells: bash, tcsh, etc
