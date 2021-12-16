@@ -48,7 +48,7 @@
 
 ## Prerequisites 
 
-- Setup your Linux
+- Setup my Linux environment 
 	- Use the embedded system LAB (dual-boot w/ Fedora)
 	- Use your own computer
 		- Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
