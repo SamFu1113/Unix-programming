@@ -46,7 +46,7 @@
 - Network Computing
 - Socket, RPC
 
-## Set up
+## Prerequisites 
 
 - Setup your Linux
 	- Use the embedded system LAB (dual-boot w/ Fedora)
