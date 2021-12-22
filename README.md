@@ -52,7 +52,7 @@
 	- Use the embedded system LAB (dual-boot w/ Fedora)
 	- Use my own computer
 		- Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
-		- I can still have your M$-Windows with Linux
+		- I can still have my M$-Windows with Linux
 
 - Test the following software works
 	- Shells: bash, tcsh, etc
@@ -92,7 +92,7 @@
 			- Write
 			- Operator <<
 			- Operator >>
-	- Requirements to your program(Learn how C/C++ standard libraries are built):
+	- Requirements to my program(Learn how C/C++ standard libraries are built):
 		- Build the library and deliver to other users.
 			- Separate “.h” file.
 			- Build the library file “libmyfstream.a”.
