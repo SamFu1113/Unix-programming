@@ -77,7 +77,7 @@
 		- There is no source code for function mult, only the compiled object code in lib_mult.a.
 		- The correct execution result is “X=610”.
 		
-	- The executable program you build should:
+	- The executable program I build should:
 		- Correctly execute, and
 		- Be able to run in a debugger
 	
