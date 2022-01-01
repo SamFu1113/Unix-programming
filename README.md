@@ -111,7 +111,7 @@
 				
 4. On-line messenger.
 	- Suppose I want to write such a program:  
-		- List all your friends on-line.  
+		- List all my friends on-line.  
 	![image info](photos/friends_online.PNG)
 		- Send a message to one of your friends.
 	- What you need to know?
