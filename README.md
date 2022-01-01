@@ -110,7 +110,7 @@
 	![image info](photos/directory_tree.PNG)
 				
 4. On-line messenger.
-	- Suppose you want to write such a program:  
+	- Suppose I want to write such a program:  
 		- List all your friends on-line.  
 	![image info](photos/friends_online.PNG)
 		- Send a message to one of your friends.
