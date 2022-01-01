@@ -113,7 +113,7 @@
 	- Suppose I want to write such a program:  
 		- List all my friends on-line.  
 	![image info](photos/friends_online.PNG)
-		- Send a message to one of your friends.
+		- Send a message to one of my friends.
 	- What you need to know?
 	- A simple messenger to send a string to other’s terminal.  
 	![image info](photos/Helen.PNG)	![image info](photos/arrow.PNG)	![image info](photos/Mary.PNG)
