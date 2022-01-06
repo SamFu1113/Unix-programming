@@ -134,9 +134,7 @@
 	
 
 
-6. Matrix mulplication in parallel.
-[comment]: <> (&nbsp;&nbsp;![image info](photos/mulplication.PNG)\)
-		
+6. Matrix mulplication in parallel.		
 	- Goal:
 		- Guide me to write parallel program computing the dot-product.
 		- With shared memory mechanism of UNIX.
