@@ -135,7 +135,7 @@
 
 
 6. Matrix mulplication in parallel.
-[//]: <> (&nbsp;&nbsp;![image info](photos/mulplication.PNG)\)
+[comment]: <> (&nbsp;&nbsp;![image info](photos/mulplication.PNG)\)
 		
 	- Goal:
 		- Guide me to write parallel program computing the dot-product.
