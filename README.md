@@ -142,7 +142,7 @@
 		- With shared memory mechanism of UNIX.
 	- Write a dot-product with pthread.\
 	![image info](photos/matrix_mulplication_in_lec10b.PNG)
-	- You may modify from pthread_acc.
+	- I may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
 
 ### Final project introduction
