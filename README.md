@@ -138,7 +138,7 @@
 	&nbsp;&nbsp;![image info](photos/mulplication.PNG)\
 		
 	- Goal:
-		- Guide you to write parallel program computing the dot-product.
+		- Guide me to write parallel program computing the dot-product.
 		- With shared memory mechanism of UNIX.
 	- Write a dot-product with pthread.\
 	![image info](photos/matrix_mulplication_in_lec10b.PNG)
