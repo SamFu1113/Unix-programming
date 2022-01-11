@@ -145,7 +145,7 @@
 
 ### Final project introduction
 
-
+- There are three projects that I could choose
 
 
 
