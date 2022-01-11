@@ -148,7 +148,7 @@
 - There are three projects that I could choose
 	- Parallel sorting over 1M floating-point numbers
 		- Sort 1M floating point numbers in non-descending order.
-	
+			- Execute on a 4-core PC.
 	- File syncing to the cloud
 
 
