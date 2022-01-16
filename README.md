@@ -153,7 +153,7 @@
 		- Major Function: sync all files in a dedicated directory to a remote server.
 			- Like dropbox
 			- Not contributing much system workload
-
+		- Expected result
 
 
 	- Login shell
