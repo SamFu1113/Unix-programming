@@ -152,9 +152,9 @@
 	- File syncing to the cloud
 		- Major Function: sync all files in a dedicated directory to a remote server.
 			- Like dropbox
-			```diff
-			- Not contributing much system workload
-			```
+```diff
+- Not contributing much system workload
+```		
 		- Expected result
 			- Automatic backup files (in a flat directory) to another directory
 
