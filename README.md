@@ -154,7 +154,7 @@
 			- Like dropbox
 			- Not contributing much system workload
 		- Expected result
-
+			- Automatic backup files (in a flat directory) to another directory
 
 	- Login shell
 
