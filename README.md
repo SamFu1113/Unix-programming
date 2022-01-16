@@ -151,6 +151,7 @@
 		- Execute on a 4-core PC.
 	- File syncing to the cloud
 		- Major Function: sync all files in a dedicated directory to a remote server.
+			- Like dropbox
 
 
 
