@@ -158,6 +158,7 @@
 		- Expected Result:
 			- Automatic backup files (in a flat directory) to another directory.
 		- Extra Function:
+			- Automatic upload to a remote server.
 
 	- Login shell
 		- A shell program capable of execution a single command each time
