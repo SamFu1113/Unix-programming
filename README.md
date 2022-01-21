@@ -143,7 +143,7 @@
 	- I may modify from pthread_acc.
 	- Estimate the execution time and compare to sequential execution.
 
-### Final project introduction
+### Final project Introduction
 
 - There are three projects that I could choose
 	- Parallel sorting over 1M floating-point numbers
