@@ -155,7 +155,7 @@
 			```diff
 			- Not contributing much system workload
 			```
-		- Expected result
+		- Expected Result:
 			- Automatic backup files (in a flat directory) to another directory.
 		- Extra Function:
 
