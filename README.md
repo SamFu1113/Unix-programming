@@ -165,6 +165,8 @@
 		- A shell program capable of execution a single command each time.
 			- Basic functionality:
 				- ```cd```, ```mkdir```, set environment variables.
+				- Automatic path search.
+
 
 
 
