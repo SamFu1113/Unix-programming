@@ -162,7 +162,7 @@
 			- Automatic sync the whole directory tree.
 
 	- Login shell
-		- A shell program capable of execution a single command each time
+		- A shell program capable of execution a single command each time.
 
 
 
