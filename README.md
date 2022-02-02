@@ -169,6 +169,7 @@
                                 - Single machine.
                                 - Login shell through network.
                         - Bonus:
+                                - Redirect outcome to files.
 
 
 
