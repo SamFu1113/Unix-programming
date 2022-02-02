@@ -166,6 +166,7 @@
 			- Basic functionality:
 				- ```cd```, ```mkdir```, set environment variables.
 				- Automatic path search.
+                        - Single machine.
 
 
 
