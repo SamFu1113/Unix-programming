@@ -149,6 +149,7 @@
 	- Parallel sorting over 1M floating-point numbers
 		- Sort 1M floating point numbers in non-descending order.
 		- Execute on a 4-core PC.
+		- Scored by the execution time, the smaller is better.
 	- File syncing to the cloud
 		- Major Function: sync all files in a dedicated directory to a remote server.
 			- Like dropbox
