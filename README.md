@@ -171,6 +171,7 @@
                         - Bonus:
                                 - Redirect outcome to files.
 								- Piped job execution.
+								- Execute background job.
 
 
 
