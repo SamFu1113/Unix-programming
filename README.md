@@ -170,7 +170,7 @@
                                 - Single machine.
                                 - Login shell through network.
                         - Bonus:
-                                - Redirect outcome to files.
+                                - Redirect outcome to files. 
 								- Piped job execution.
 								- Execute background job.
 
