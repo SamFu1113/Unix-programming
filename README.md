@@ -168,7 +168,7 @@
 				- ```cd```, ```mkdir```, set environment variables.
 				- Automatic path search.
 			- Single machine.
-                - Login shell through network.
+            - Login shell through network.
         - Bonus:
 			- Redirect outcome to files. 
 			- Piped job execution. 
