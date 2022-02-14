@@ -169,7 +169,7 @@
 				- Automatic path search.
 			- Single machine.
                 - Login shell through network.
-                        - Bonus:
+        - Bonus:
                                 - Redirect outcome to files. 
 								- Piped job execution. 
 								- Execute background job. 
