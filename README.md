@@ -169,8 +169,8 @@
 				- Automatic path search.
 			- Single machine.
                 - Login shell through network.
-        - Bonus:                        
-								- Redirect outcome to files. 
+                        - Bonus:
+                                - Redirect outcome to files. 
 								- Piped job execution. 
 								- Execute background job. 
 
