@@ -17,7 +17,7 @@
 
 - ```Fedora```/```Ubuntu```/```Red Hat Enterprise```/```CentOS```
 	- The CSIE server: ```Ubuntu```
-	- My laptop: Ubuntu 16.04
+	- My laptop: ```Ubuntu 16.04```
 	
 - With GNU tool-chain
 	- gcc (the C compiler)
