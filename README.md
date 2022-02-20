@@ -16,7 +16,7 @@
 ## Experiment Environment
 
 - ```Fedora```/```Ubuntu```/```Red Hat Enterprise```/```CentOS```
-	- The CSIE server: Ubuntu
+	- The CSIE server: ```Ubuntu```
 	- My laptop: Ubuntu 16.04
 	
 - With GNU tool-chain
