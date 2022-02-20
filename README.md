@@ -162,7 +162,7 @@
 			- Automatic upload to a remote server.
 			- Automatic sync the whole directory tree.
 
-	- Login shell
+	3. Login shell
 		- A shell program capable of execution a single command each time.
 			- Basic functionality:
 				- ```cd```, ```mkdir```, set environment variables.
