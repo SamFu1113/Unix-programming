@@ -125,7 +125,7 @@
 		- Store data in a linked list.
 	- Auto-Recovery:
 		- Automatic save data to disk:
-			- CtrL-C
+			- Ctrl-C
 
 
 	![image info](photos/front-end_process.PNG) ![image info](photos/arrow.PNG) [](<div style="width:80px; height:100px">)
