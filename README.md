@@ -173,7 +173,7 @@
 			- Redirect outcome to files. 
 			- Piped job execution. 
 			- Execute background job. 
-- I chose the first selection.
+- I chose the first selection one as my final project.
 
 
 
