@@ -173,7 +173,7 @@
 			- Redirect outcome to files. 
 			- Piped job execution. 
 			- Execute background job. 
-- I chose the first selection one as my final project: ***Matrix_mulplication_in_parallel***.
+- I chose the first selection one as my final project: ***Matrix\_mulplication_in_parallel***.
 
 
 
