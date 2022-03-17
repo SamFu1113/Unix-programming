@@ -10,6 +10,7 @@
 ```sh
 - Ubuntu 16.04, 20.04.
 ```
+```sh
 - Fedora
 - Debian
 
