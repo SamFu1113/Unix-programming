@@ -9,8 +9,11 @@
 **Ex**:
 ```sh
 - Ubuntu 16.04, 20.04.
+<<<<<<< HEAD
 ```
 ```sh
+=======
+>>>>>>> parent of cfc4dcf (Update README.md)
 - Fedora
 ```
 ```sh
