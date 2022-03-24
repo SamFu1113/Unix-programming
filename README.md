@@ -141,7 +141,7 @@
 6. Matrix mulplication in parallel.		
 	- Goal:
 		- Guide me to write parallel program computing the dot-product.
-		- With shared memory mechanism of UNIX.
+		- With shared memory mechanism of ```UNIX```.
 	- Write a dot-product with pthread.\
 	![image info](photos/matrix_mulplication_in_lec10b.PNG)
 	- I may modify from pthread_acc.
