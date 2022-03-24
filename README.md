@@ -156,7 +156,7 @@
 		- Scored by the execution time, the smaller is better.
 	2. File syncing to the cloud
 		- Major Function: sync all files in a dedicated directory to a remote server.
-			- Like dropbox
+			- Like ```dropbox```
 			```diff
 			- Not contributing much system workload
 			```
