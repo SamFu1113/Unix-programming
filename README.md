@@ -59,7 +59,7 @@
 		- I can still have my M$-Windows with Linux
 
 - Test the following software works
-	- Shells: bash, tcsh, etc
+	- Shells: ```bash```, tcsh, etc
 	- Programming tools: gcc, gdb, make
 	- My favorite X-window: KDE/Gnome
 	- My favorite GUI debugger (ddd, kdbg, etc.)
