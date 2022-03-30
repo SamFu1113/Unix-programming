@@ -61,7 +61,7 @@
 - Test the following software works
 	- Shells: ```bash```, ```tcsh```, etc
 	- Programming tools: ```gcc```, ```gdb```, ```make```
-	- My favorite X-window: KDE/Gnome
+	- My favorite X-window: ```KDE```/Gnome
 	- My favorite GUI debugger (ddd, kdbg, etc.)
 	- My favorite text editor (kwrite, emacs, vi, etc.)
 
