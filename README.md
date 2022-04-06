@@ -63,7 +63,7 @@
 	- Programming tools: ```gcc```, ```gdb```, ```make```
 	- My favorite X-window: ```KDE```/```Gnome```
 	- My favorite GUI debugger (```ddd```, ```kdbg```, etc.)
-	- My favorite text editor (```kwrite```, emacs, vi, etc.)
+	- My favorite text editor (```kwrite```, ```emacs```, vi, etc.)
 
 ## First UNIX instruction I should learn
 
