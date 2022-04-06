@@ -24,7 +24,7 @@
 	- My laptop: ```Ubuntu 16.04```
 	
 - With GNU tool-chain
-	- gcc (the C compiler)
+	- ```gcc``` (the C compiler)
 	- gdb (the GNU debugger)
 
 
