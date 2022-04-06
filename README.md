@@ -25,7 +25,7 @@
 	
 - With GNU tool-chain
 	- ```gcc``` (the C compiler)
-	- gdb (the GNU debugger)
+	- ```gdb``` (the GNU debugger)
 
 
 ## Why learning UNIX?
