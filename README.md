@@ -55,7 +55,7 @@
 - Setup my Linux environment 
 	- Use the embedded system LAB (dual-boot w/ Fedora)
 	- Use my own computer
-		- Most of Linux distribution (e.g. Fedora 9+) supports dual-boot
+		- Most of Linux distribution (e.g. ```Fedora 9+```) supports dual-boot
 		- I can still have my M$-Windows with Linux
 
 - Test the following software works
