@@ -76,7 +76,7 @@
 ## Projects introduction
 
 1. Write the first program:
-	- Write the Makefile to build the executable program in sub-folder “hw_01”.
+	- Write the Makefile to build the executable program in sub-folder ```hw_01```.
 		- Three functions spread across multiple files: main, calculate, mult.
 		- There is no source code for function mult, only the compiled object code in ```lib_mult.a```.
 		- The correct execution result is “X=610”.
