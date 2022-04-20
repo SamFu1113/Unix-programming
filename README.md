@@ -103,7 +103,7 @@
 		- Test my program by other users.
 			- Deliver only ```.h``` and ```.a``` files.
 			- C++ source code on methods implementation should not be delivered to the test users.
-		- I am not allowed to use any C/C++ standard library functions/classes.
+		- I am not allowed to use any ```C/C++``` standard library functions/classes.
 			- Only ```UNIX``` system calls are allowed.
 
 3. Recursive into a directory tree and visit each file.
