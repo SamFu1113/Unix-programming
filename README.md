@@ -96,7 +96,7 @@
 			- Write
 			- Operator <<
 			- Operator >>
-	- Requirements to my program(Learn how C/C++ standard libraries are built):
+	- Requirements to my program(Learn how ```C/C++``` standard libraries are built):
 		- Build the library and deliver to other users.
 			- Separate ```.h``` file.
 			- Build the library file “libmyfstream.a”.
