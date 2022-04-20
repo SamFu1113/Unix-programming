@@ -86,7 +86,7 @@
 		- Be able to run in a debugger
 	
 2. Define my own fstream class.
-	- Build a standard C++ class using system calls.
+	- Build a standard ```C++``` class using system calls.
 	- Write a class named ```myfstream```.
 		- Similar functionality to the standard C++ class fstream.
 		- Contains at least these methods:	
