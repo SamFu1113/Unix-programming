@@ -42,7 +42,7 @@
 
 ## Topics Covered
 
-- UNIX architecture
+- ```UNIX``` architecture
 - File System Operations
 - Terminal I/O
 - Concurrent Programming
