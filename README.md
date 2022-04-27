@@ -32,7 +32,7 @@
 
 - Academic research
 	- Lots of open-source free software
-	- Innovative software appears on UNIX first
+	- Innovative software appears on ```UNIX``` first
 	- Network computing research (cluster/grid)
 	- Embedded system and SoC (system-on-chip)
 	- Most of embedded software are Linux-based
