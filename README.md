@@ -41,7 +41,6 @@
 	```
 	&nbsp;&nbsp;&nbsp;&nbsp;make me more familiar on playing computer!
 
-H<font color="#f00">e</font>llo, World
 
 ## Topics Covered
 
