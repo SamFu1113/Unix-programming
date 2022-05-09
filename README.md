@@ -39,7 +39,7 @@
 	```diff
 	- MOST IMPORTANT: 
 	```
-	make me more familiar on playing computer!
+	&nbsp;&nbsp;make me more familiar on playing computer!
 
 
 
