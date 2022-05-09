@@ -36,7 +36,9 @@
 	- Network computing research (cluster/grid)
 	- Embedded system and SoC (system-on-chip)
 	- Most of embedded software are Linux-based
+	```diff
 	- MOST IMPORTANT: make me more familiar on playing computer!
+	```
 
 
 
