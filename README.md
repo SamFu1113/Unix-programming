@@ -13,7 +13,7 @@
 
 - Fedora
 ```
-```sh
+
 - Debian
 ```
 
