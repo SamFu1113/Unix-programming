@@ -35,12 +35,7 @@
 	```diff
 	- MOST IMPORTANT: 
 	```
-	```diff
-	- IMPORTANT:In principle, a semaphore is created for any other processes (including other users) to access it. 
-	- Any processes can access the semaphore once they know the path+name.
-	- So, if I plan to run this 'prog1' and 'prog2' is in the same operating systems with the other, I better clear it before doing so. 
-	- Another better way is to rename the semaphore so that no one can access the same semaphore with me.
-	```
+
 	&nbsp;&nbsp;&nbsp;&nbsp;Make me more familiar on playing computer!
 
 
