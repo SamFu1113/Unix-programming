@@ -34,7 +34,7 @@
 	- Most of embedded software are Linux-based
 	```diff
 	- MOST IMPORTANT: 
-	&nbsp;&nbsp;&nbsp;&nbsp;Make me more familiar on playing computer!
+	- Make me more familiar on playing computer!
 	```
 
 	
