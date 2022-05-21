@@ -36,7 +36,7 @@
 	- MOST IMPORTANT: 
 	- Make me more familiar on playing computer!
 	```
-	```diff
+
 	
 
 
